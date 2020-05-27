@@ -1,0 +1,119 @@
+
+IRIS 
+SOLID Principle :
+	
+
+
+Hibernate :	
+	object life cycle :	
+		transient normal 
+		detached  evict 
+		persisted save
+
+
+OS concept :
+	Thread :
+		life cycle 
+
+
+Database concept :	
+	B tree 
+	B+ tree 
+	transaction 
+		2 phase commit 
+		
+
+
+
+How we expose services of microservices ?
+	spring security
+	Api Gate way security 
+	JWT user
+	OAuth 
+
+
+how hystrics work?
+	all annotation
+	circuit breaker pattern. 
+
+
+
+how meassaging server works?
+	kafka 
+	rabit mq 
+
+
+
+Maven : project management tool 
+	what is maven
+	snapshot : how does it work?
+	surefire : what it is
+	how artifacts artifactory 
+
+
+Gradle vs Maven : 
+
+
+Spring boot: 
+How spring boot works? 
+	autoconfiguration 
+		all notation
+
+	starter package
+	custom starter package 
+
+
+	how to manage two database connection
+	how ssl configuration in sprinboot 
+
+	Exception handling : 
+		annotation
+
+	Component of spring boot:
+		actuator 
+		autoconfigurer
+		starter
+		cli
+
+Caching :
+	distributed caching 
+	local caching
+	Redis 
+	EH Cahce
+
+
+Message queue: 
+	kafka 
+
+	Rabit mq 	
+
+Spring : 
+	MVC
+	filter vs interceptor 
+
+	How to inject prototype in singleton.
+
+
+Concept: 
+
+	TLS 1.3 
+
+Tools : 
+	deployment : 
+
+
+Microservices
+
+	Transaction 
+	Orcheastration and Coreogrphy
+	SAGA pattern
+
+	Service dicovery 
+		client side 
+		server side 
+
+
+
+
+
+
