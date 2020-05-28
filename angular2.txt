@@ -1,0 +1,21 @@
+Concepts	
+https://www.pluralsight.com/courses/angular-2-getting-started-update
+https://www.pluralsight.com/courses/angular-2-first-look
+https://angular.io
+"https://nagarro.sharepoint.com/portals/hub/_layouts/15/PointPublishing.aspx?app=video&p=p&chid=ee65415e-f34b-4fe0-8f56-726eb5c2bf1b&vid=639889f6-3066-4a34-a73f-7ce6827b3bb4", "https://nagarro.sharepoint.com/portals/hub/_layouts/15/PointPublishing.aspx?app=video&p=p&chid=ee65415e-f34b-4fe0-8f56-726eb5c2bf1b&vid=639889f6-3066-4a34-a73f-7ce6827b3bb4"
+Components and directives	
+https://www.pluralsight.com/courses/angular-2-getting-started-update
+https://www.pluralsight.com/courses/angular-2-first-look
+http://lishman.io/angular-2-property-binding
+https://angular.io/docs/ts/latest/guide/attribute-directives.html
+https://angular.io/docs/ts/latest/guide/structural-directives.html
+https://angular.io/docs/ts/latest/guide/component-styles.html
+Angular 2
+Templates	
+https://www.pluralsight.com/courses/angular-2-first-look
+https://www.pluralsight.com/courses/angular-2-getting-started-update
+https://angular.io/docs/ts/latest/guide/template-syntax.html
+Forms		
+https://angular.io/docs/ts/latest/guide/forms.html
+https://angular.io/docs/ts/latest/cookbook/dynamic-form.html
+https://angular.io/docs/ts/latest/cookbook/form-validation.html

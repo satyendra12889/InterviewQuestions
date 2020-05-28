@@ -1,0 +1,17 @@
+Fundamentals (Intent services, data adapters, style and assets, singleton, fragment lifecycle, broadcast receivers and content providers, android fundamentals, threads and async tasks, app resources and widgets, android fundamentals		
+https://www.youtube.com/watch?v=2Wo_QfQZ0lE&list=PLAwxTw4SYaPnMwH5-FNkErnnq_aSy706S
+https://www.udacity.com/course/advanced-android-app-development--ud855
+https://github.com/codepath/android_guides/wiki
+All things Android - Running a Linux Distribution inside Android
+Background processing (Threads and Async tasks, background processing)		
+https://www.youtube.com/watch?v=yOT6pfDoaFk
+https://www.youtube.com/watch?v=lHbIwoevePE&list=PLZ9NgFYEMxp50tvT8806xllaCbd31DpDy
+https://www.coursera.org/learn/androidapps-2/home/welcome
+https://in.udacity.com/course/developing-android-apps--ud853
+All things Android - Oreo
+Persistence		
+https://www.youtube.com/watch?v=lHbIwoevePE&list=PLZ9NgFYEMxp50tvT8806xllaCbd31DpDy
+https://www.udemy.com/sisoft-android-basic-to-create-cool-apps/learn/v4/overview
+All things Android - ARCore Demo
+Please submit your recommendation/s for ILP		
+https://goo.gl/forms/S8kaJbjrjxOMJlCA3

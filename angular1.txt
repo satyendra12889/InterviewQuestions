@@ -1,0 +1,16 @@
+Advanced concepts	
+https://app.pluralsight.com/player?course=angularjs-directive-fundamentals&author=joe-eames&name=angularjs-directive-fundamentals-m1&clip=0
+https://docs.angularjs.org/guide
+https://nagarro.sharepoint.com/portals/hub/_layouts/15/PointPublishing.aspx?app=video&p=p&chid=4c47a755-f15f-4497-af3c-cfa521295b90&vid=8c31480b-876b-4fc2-905b-34ccf9f94d3d
+https://nagarro.sharepoint.com/portals/hub/_layouts/15/PointPublishing.aspx?app=video&p=p&chid=4c47a755-f15f-4497-af3c-cfa521295b90&vid=718b55de-05c1-4c81-b909-45c7ee5ef12f
+Introductory concepts (Modules, Controllers, scope)	
+https://app.pluralsight.com/player?course=angularjs-get-started&author=scott-allen&name=angularjs-get-started-m4-services&clip=6
+https://docs.angularjs.org/guide
+Core concepts (Filters, Factory, Routing) and Unit Testing	
+https://app.pluralsight.com/player?course=angular-routing-in-depth&author=brice-wilson&name=angular-routing-in-depth-m1&clip=0
+https://app.pluralsight.com/player?course=angularjs-services-in-depth&author=brice-wilson&name=angularjs-services-in-depth-m1&clip=0
+https://app.pluralsight.com/player?course=angularjs-ngmock-unit-testing&author=bradley-braithwaite&name=angularjs-ngmock-unit-testing-m1&clip=0
+https://docs.angularjs.org/guide/filter
+https://docs.angularjs.org/guide/services
+https://docs.angularjs.org/api
+https://docs.angularjs.org/guide/unit-testing

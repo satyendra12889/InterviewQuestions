@@ -1,0 +1,17 @@
+Blockchain Basics	
+https://app.pluralsight.com/library/courses/blockchain-fundamentals/
+https://www.ibm.com/developerworks/cloud/library/cl-blockchain-basics-intro-bluemix-trs/index.html
+https://www.youtube.com/watch?v=fOMVZXLjKYo
+https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business
+Blockchain Intermediate	
+https://www.pluralsight.com/guides/blockchain-architecture
+https://www.pluralsight.com/guides/blockchain-architecture
+https://app.pluralsight.com/library/courses/blockchain-principles-practices/
+https://hackernoon.com/set-up-a-private-ethereum-blockchain-and-deploy-your-first-solidity-smart-contract-on-the-caa8334c343d
+https://www.youtube.com/watch?v=1b7Z8MTc9vw
+https://hackernoon.com/blockchain-dictionary-f4d098c9ef89
+Blockchain and Shared Economy
+Blockchain Advanced		
+https://www.coursera.org/lecture/cryptocurrency/bitcoin-transactions-neykl
+https://www.coursera.org/lecture/cryptocurrency/bitcoin-blocks-I5uc7
+https://www.coursera.org/lecture/cryptocurrency/the-bitcoin-network-SKxAO

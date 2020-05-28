@@ -1,0 +1,13 @@
+Basic concepts	
+https://app.pluralsight.com/library/courses/accelerated-introduction-cpp/table-of-contents
+STLs, Memory management and Exception handling	
+https://app.pluralsight.com/player?course=adv-cpp&author=kate-gregory&name=advcpp-03-containers&clip=0&mode=live
+https://app.pluralsight.com/player?course=cppfund2&author=kate-gregory&name=cppfund2-m1-stl&clip=0&mode=live
+https://www.tutorialspoint.com/cplusplus/cpp_dynamic_memory.htm
+https://en.wikibooks.org/wiki/C%2B%
+https://www.tutorialspoint.com/cplusplus/cpp_exceptions_handling.htm
+http://www.cplusplus.com/doc/tutorial/exceptions/
+Inheritance and polymorphism	
+https://app.pluralsight.com/player?course=cpp-fundamentals&author=kate-gregory&name=modern-cpp-06b-inheritance&clip=0&mode=live
+http://www.cplusplus.com/doc/tutorial/polymorphism/
+http://www.cplusplus.com/doc/tutorial/inheritance/

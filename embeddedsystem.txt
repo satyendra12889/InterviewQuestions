@@ -1,0 +1,11 @@
+Embedded system fundamentals		
+https://www.javatpoint.com/embedded-system-tutorial
+https://www.tutorialspoint.com/embedded_systems/index.htm
+Embedded systems
+Unit testing in embedded systems application development
+Embedded C and Assembly		
+http://www.learn-c.org/
+https://www.tutorialspoint.com/assembly_programming/
+OS and Hardware		
+http://www.studytonight.com/operating-system/
+https://www.tutorialspoint.com/operating_system/

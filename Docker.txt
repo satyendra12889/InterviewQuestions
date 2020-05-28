@@ -1,0 +1,21 @@
+Fundamentals	
+https://app.pluralsight.com/player?course=docker-containers-big-picture&author=nigel-poulton&name=docker-containers-big-picture-m0&clip=0
+https://app.pluralsight.com/player?course=docker-getting-started&author=nigel-poulton&name=docker-getting-started-m4&clip=4
+https://app.pluralsight.com/player?course=docker-deep-dive&author=nigel-poulton&name=docker-deep-dive-m2&clip=5
+https://www.udemy.com/docker-quick-start/
+https://www.udemy.com/introduction-to-evolution-of-software-containers-and-docker/learn/v4/overview
+Microservices and Dockers
+DevOps on cloud Achieving great velocities
+Microservices and Dockers
+Dockers and Kubernetes
+Dockers Unleashed
+Networks		
+https://docs.docker.com/engine/docker-overview/
+Swarm	
+https://app.pluralsight.com/player?course=docker-swarm-native-docker-clustering&author=nigel-poulton&name=docker-swarm-native-docker-clustering-m0&clip=0
+https://veggiemonk.github.io/awesome-docker/
+Registry & Security	
+https://app.pluralsight.com/player?course=integrating-docker-with-devops-automated-workflows&author=nigel-poulton&name=integrating-docker-with-devops-automated-workflows-m1&clip=0
+https://www.udemy.com/deploying-containerized-applications-technical-overview/
+Please submit your recommendation/s for ILP		
+https://goo.gl/forms/JuVo5hNtAbpRNbxx1

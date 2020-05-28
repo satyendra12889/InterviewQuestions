@@ -1,0 +1,12 @@
+Introduction and GIT Basics	
+https://app.pluralsight.com/player?course=git-fundamentals&author=james-kovacs&name=git-fundamentals-m0&clip=0&mode=live
+https://app.pluralsight.com/player?course=using-git-with-gui&author=xavier-morera&name=using-git-with-gui-m2&clip=0&mode=live
+https://www.visualstudio.com/learn/what-is-version-control/
+Mechanics of GIT	
+https://app.pluralsight.com/player?course=using-git-with-gui&author=xavier-morera&name=using-git-with-gui-m3&clip=0&mode=live
+https://git-scm.com/docs
+Branching Workflow	
+https://app.pluralsight.com/player?course=using-git-with-gui&author=xavier-morera&name=using-git-with-gui-m5&clip=0&mode=live
+Using GIT with a GUI	
+https://app.pluralsight.com/player?course=using-git-with-gui&author=xavier-morera&name=using-git-with-gui-m1&clip=0&mode=live
+https://try.github.io/levels/1/challenges/1

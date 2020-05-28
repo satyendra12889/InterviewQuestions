@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=XnbBUuAgxYs
+
+
+SQL Advanced	
+https://www.pluralsight.com/courses/adv-sql-queries-oracle-sql-server
+SQL Functions	
+http://docs.oracle.com/cd/B19306_01/server.102/b14200/functions001.htm https://docs.microsoft.com/en-us/sql/t-sql/functions/functions
+SQL Basics	
+https://www.pluralsight.com/courses/introduction-to-sql

@@ -1,0 +1,22 @@
+Advanced (Design Patterns, Threads, Collections, JDBC, Junit, Generics)	
+https://app.pluralsight.com/library/courses/design-patterns-java-structural/table-of-contents
+https://app.pluralsight.com/library/courses/java-patterns-concurrency-multi-threading/table-of-contents
+https://app.pluralsight.com/library/courses/java-fundamentals-collections/table-of-contents
+https://app.pluralsight.com/library/courses/java-generics/table-of-contents
+http://www.javatpoint.com/multithreading-in-java
+http://www.javatpoint.com/java-jdbc
+https://www.coursera.org/learn/advanced-data-structures
+https://courses.edx.org/courses/course-v1:Microsoft+DEV276x+4T2017/course/
+NAGP 2018 QA batch Launch workshop on Basic of core java
+Basic (OOPs, Exception Handling, Strings & String Methods, Memory Management, Serialization)	
+https://app.pluralsight.com/library/courses/java-fundamentals-core-platform/table-of-contents
+https://app.pluralsight.com/library/courses/java2/table-of-contents
+https://app.pluralsight.com/library/courses/understanding-java-vm-memory-management/table-of-contents
+http://docs.oracle.com/javase/tutorial/java/concepts
+http://www.javatpoint.com/java-oops-concepts
+http://www.javatpoint.com/exception-handling-in-java
+http://www.javatpoint.com/java-string
+https://javascript.info/
+https://www.coursera.org/learn/javascript/home/welcome
+Please submit your recommendation/s for ILP		
+https://goo.gl/forms/JuVo5hNtAbpRNbxx1
